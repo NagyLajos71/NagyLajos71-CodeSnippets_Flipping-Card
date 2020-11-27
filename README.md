@@ -1,2 +1,1 @@
-# NagyLajos71-grandmareceipes
-testupload nov27
+this is a card flipping code snippet
